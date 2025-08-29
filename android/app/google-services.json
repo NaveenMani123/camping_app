@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "829611331544",
+    "firebase_url": "https://camping-project-dc1e6-default-rtdb.firebaseio.com",
+    "project_id": "camping-project-dc1e6",
+    "storage_bucket": "camping-project-dc1e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829611331544:android:649773ce76cc196671acad",
+        "android_client_info": {
+          "package_name": "com.example.campign_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829611331544-c72id2sth8edsnc40p97evrfv070he4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campign_project",
+            "certificate_hash": "96c69677cf8784236a3e4aa0bc5298f683e8bd78"
+          }
+        },
+        {
+          "client_id": "829611331544-eft9cbbp4rbm24mvforcud3fdl2r0pup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTGWJcYtr8CpRq27NstLsM_rI0ZLMjy3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829611331544-eft9cbbp4rbm24mvforcud3fdl2r0pup.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829611331544-a0ao0avrgr6316pldb6vurlnmtl3ps2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campignProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

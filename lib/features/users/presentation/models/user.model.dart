@@ -9,7 +9,6 @@ class UserModel with UserModelMappable{
   final int age;
   final String gender;
   final String? email;
-
   final List<dynamic>? savedSites;
   final List<dynamic>?uploadedSites;
   final String? profileImageUrl;

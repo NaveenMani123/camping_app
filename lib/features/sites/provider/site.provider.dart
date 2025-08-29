@@ -8,7 +8,6 @@ class SiteProvider extends ChangeNotifier {
   SiteProvider({required this.siteRepository});
   UserModel? _user;
   double _radiusKm = 500;
-
   double? _userLat;
   double? _userLng;
   int? _sitesLength;
